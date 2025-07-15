@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Nabila 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Front-end+Developer;Loves+Anime+and+Coding;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 
-<!--
-**whimsicool/whimsicool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💫 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **JavaScript, React, and Node.js**
+- 🔭 I'm working on some personal web projects
+- 🎨 I like combining **design + code** into something fun!
+- 💬 Ask me about anything tech-related (or anime 👀)
+- ⚡ Fun fact: I write better code at 2AM
+
+---
+
+### 🛠️ Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,figma,vscode" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=whimsicool&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whimsicool&theme=radical" height="160"/>
+</p>
+
+---
+
+### 🎵 Currently Vibing To
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app)
+
+---
+
+### 📫 Connect with me
+[![Twitter](https://img.shields.io/badge/@yourhandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/scftware)
+[![LinkedIn](https://img.shields.io/badge/YourName-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabila-millania-b3286b218/)
