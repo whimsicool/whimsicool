@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Nabila 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Front-end+Developer;Loves+Anime+and+Coding;Always+Learning+New+Things" alt="Typing SVG" />
-</p>
+<div align="center" style="padding-top: 30px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Front-end+Developer;" alt="Typing SVG"/>
+</div>
 
 ---
 
