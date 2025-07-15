@@ -30,11 +30,6 @@
 
 ---
 
-### 🎵 Currently Vibing To
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app)
-
----
-
 ### 📫 Connect with me
-[![Twitter](https://img.shields.io/badge/@yourhandle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/scftware)
-[![LinkedIn](https://img.shields.io/badge/YourName-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabila-millania-b3286b218/)
+[![Twitter](https://img.shields.io/badge/@scftware-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/scftware)
+[![LinkedIn](https://img.shields.io/badge/nabila-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabila-millania-b3286b218/)
