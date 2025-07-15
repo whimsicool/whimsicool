@@ -1,14 +1,14 @@
 <h1 align="center">Hi there, I'm Nabila 👋</h1>
 <div align="center" style="padding-top: 30px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Front-end+Developer;" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Front-end+Web+Developer;" alt="Typing SVG"/>
 </div>
 
 ---
 
 ### 💫 About Me
 
+- 👩🏻‍💻 I'm a third year Computer Science student
 - 🌱 I’m currently learning **JavaScript, React, and Node.js**
-- 🔭 I'm working on some personal web projects
 - 🎨 I like combining **design + code** into something fun!
 - 💬 Ask me about anything tech-related (or anime 👀)
 - ⚡ Fun fact: I write better code at 2AM
